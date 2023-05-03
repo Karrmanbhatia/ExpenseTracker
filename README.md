@@ -1,4 +1,4 @@
-# react-redux-expense-tracker
+# Expense-Tracker using react-redux
 This application helps authenticated users to create, edit, remove the expenses and sort/search them based on various parameters. 
 Apart from this the users may even visualize monthly expenses via charts.
 
